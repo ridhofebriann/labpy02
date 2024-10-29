@@ -60,3 +60,90 @@ seperti ini jika algoritma di atas yang di buat dalam bentuk flowchart di jadika
 ### Hasil eksekusi 
 ini hasil eksekusi dari kode program di atas
 ![gambar 14](foto3/hasil.png)
+
+
+
+
+## Membuat program dan flowchart kalkulator sederhana menggunakan if elif else untuk menentukan operasi aritmatika
+
+1.
+![gambar](foto3/no10.png)
+
+Titik awal dari flowchart menggunakan simbol oval.
+
+2.
+![gambar](foto3/no11.png)
+
+Pengguna diminta menginputkan angka pertama.
+
+![gambar](foto3/no12.png)
+
+Pengguna diminta untuk menginputkan angka kedua.
+
+4.
+![gambar](foto3/no13.png)
+
+Pengguna diminta untuk menginputkan operator (+, -, *, /).
+
+5.
+![gambar](foto3/no14.png)
+Apakah operator = +?
+
+-Jika Ya, maka Hasil = angka pertama + angka kedua. Dan lanjut ke no10.
+
+-Jika Tidak, maka lanjut ke no6.
+
+6.
+![gambar](foto3/no15.png)
+Apakah operator = -?
+
+-Jika Ya, maka Hasil = angka pertama - angka kedua. Dan lanjut ke no10.
+
+-Jika Tidak, maka lanjut ke no7.
+
+7.
+![gambar](foto3/no16.png)
+Apakah operator = *?
+
+-Jika Ya, maka Hasil = angka pertama * angka kedua. Dan lanjut ke no10.
+
+-Jika Tidak, maka lanjut ke no8.
+
+8.
+![gambar](foto3/no17.png)
+Apakah operator = /?
+
+-Jika Ya, maka lanjut ke no9.
+
+-Jika Tidak, maka Hasil = "Error: operator tidak valid!". Dan lanjut ke no10.
+
+9.
+![gambar](foto3/no18.png)
+Apakah angka kedua ≠ 0?
+
+-Jika Ya, maka Hasil = angka pertama / angka kedua. Dan lanjut ke no10.
+
+-Jika Tidak, maka Hasil = "Error: pembagian dengan nol tidak diperbolehkan". Dan lanjut ke no10
+
+10.
+![gambar](foto3/no19.png)
+
+Lalu output atau tampilkan Hasil.
+
+11.
+![gambar](foto3/no20.png)
+Dan selesai diakhiri menggunakan simbol oval.
+
+### Ini adalah flowchartnya:
+
+![foto](foto3/flowchart1.png)
+
+### Ini adalah programnya dalam bentuk python:
+
+![gambar](foto3/codee.png)
+
+### Ini adalah hasil dari program yang telah diinputkan:
+
+![gambar](foto3/hasill.png)
+
+

@@ -136,7 +136,7 @@ Dan selesai diakhiri menggunakan simbol oval.
 
 ### Ini adalah flowchartnya:
 
-![foto](foto3/flowchart1.png)
+![foto](foto3/flowchart2.png)
 
 ### Ini adalah programnya dalam bentuk python:
 

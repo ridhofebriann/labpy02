@@ -118,7 +118,7 @@ Apakah operator = /?
 -Jika Tidak, maka Hasil = "Error: operator tidak valid!". Dan lanjut ke no10.
 
 9.
-![gambar](foto3/no18.png)
+![gambar](foto3/no18..png)
 Apakah angka kedua ≠ 0?
 
 -Jika Ya, maka Hasil = angka pertama / angka kedua. Dan lanjut ke no10.
